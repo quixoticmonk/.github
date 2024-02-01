@@ -1,9 +1,9 @@
 {
     "name": "Test Workflow from organization",
     "description": "Starter workflow.",
-    "iconName": "example-icon",
+    "iconName": "octicon smiley",
     "categories": [
-        "Go"
+        "continuous-integration"
     ],
     "filePatterns": [
         "package.json$",
